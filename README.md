@@ -40,7 +40,7 @@ $ expense-tracker summary --month 8
 -# Total expenses for August: $20  
 
 ---
-##Implementation
+##Implementation  
 
 You can implement the application using any programming language of your choice. Here are some suggestions:  
 
