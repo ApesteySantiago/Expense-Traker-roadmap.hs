@@ -38,6 +38,7 @@ $ expense-tracker summary
 
 $ expense-tracker summary --month 8  
 -# Total expenses for August: $20  
+
 ---
 #Implementation
 
